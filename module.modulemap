@@ -1,0 +1,4 @@
+module CWaylandCursor [system] {
+  header "module.h"
+  export *
+}
